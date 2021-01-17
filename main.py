@@ -3,9 +3,9 @@ import datetime as dt
 import smtplib
 import time
 
-priya_email = "py9118@gmail.com"
-my_email = "lazyminds.0499@yahoo.com"
-password = "jlnoxtiwmsensfpv"
+priya_email = "TO SEND EMAIL ID"
+my_email = "EMAIL ID"
+password = "PASSWORD"
 MY_LAT = 28.581130
 MY_LONG = 77.085410
 MY_POSI = (MY_LAT, MY_LONG)
